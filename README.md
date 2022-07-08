@@ -1,13 +1,13 @@
 # TP Web-Serveur
 
 
-**Système de Gommette**
+## **Système de Gommette**
 
 Rapport TP - Web Serveur Licence Informatique - L2
 Université Clermont Auvergne
 
 
-**La Modélisation**
+## **La Modélisation**
 
 Les fonctionnalités :
 
@@ -43,7 +43,7 @@ Solutions :
 
 Dans la conception du projet de serveur web, nous avons fait l’utilisation de plusieurs technologies. Le framework opensource Java Spark a été utilisé pour la gestion du serveur. Comme système de gestion de base de données, nous avons utilisé le H2. Finalement, pour le moteur de templates nous avons fait appel à la bibliothèque Freemarker.
 
-**Les routes**
+## **Les routes**
 
 - GET
 - /
