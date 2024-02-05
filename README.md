@@ -3,7 +3,7 @@
 
 ## **Système de Gommette**
 
-Rapport TP - Web Serveur Licence Informatique - L2
+Web Serveur Licence Informatique - L2
 Université Clermont Auvergne
 
 
